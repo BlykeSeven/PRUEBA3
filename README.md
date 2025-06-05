@@ -1,0 +1,1 @@
+En caso de nos servir el proyecto, descargar este, ya que el frontend no se descarga ni se sube correctamente pero al hacerlo .zip este si guarda todo, lo malo es que tardara un poco es descargar y descomprimir, bueno eso en mi caso,
